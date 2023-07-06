@@ -9,6 +9,7 @@
 .brandtxt{
    position: relative;
    left: -35%;
+   padding-top:2%;
 }
 .brandtable{
     border-spacing: 0px;
@@ -138,7 +139,7 @@
     margin-right: auto;
 }
 .icons{
-    width: 50%;
+    width: 60%;
     padding-bottom: 5%;
     margin-bottom: 3%;
 }
