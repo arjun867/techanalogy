@@ -1,0 +1,208 @@
+.brand{
+    background-color:#A4FAFF;
+}
+.brandimg{
+    width: 30%;
+    height: 30%;
+    padding: 2%;
+}
+.brandtxt{
+   position: relative;
+   left: -35%;
+}
+.brandtable{
+    border-spacing: 0px;
+}
+.navbar{
+   background-color:#D5FAFD; 
+   height: 44px;
+
+}
+.navtable{
+    width: 100%;
+    height: 10%;
+    
+}
+.aboutus{
+    text-align: center;
+    border-style: solid;
+    border-left: rgb(41, 41, 41);
+    border-top: none;
+    border-bottom: none;
+    border-width: 0px;
+    font-weight: 600;
+    font-size: large;
+}
+.courses{
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+}
+.welcome{
+    text-align: center;
+    background-color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 3%;
+}
+.msg1{
+    color:#FFB800;
+    padding-top: 3%;
+    padding-bottom: 0%;
+}
+.msg2{
+    color:#FFB800;
+    padding-top: 0%;
+    padding-bottom: 3%;
+}
+.aboutbtn{
+    padding-top: 1%;
+    padding-bottom: 1.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    background-color:#0F7DFE;
+    font-size:medium;
+    color:white;
+    font-weight:bold
+}
+
+.shoptable{
+    width: 100%;
+    padding: 0%;
+    border-width: 0%;
+    border-spacing: 0px;  
+}
+.coursecontent{
+    position: relative;
+    left: -5%;
+    text-align: left;
+}
+.reviews{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding-bottom: 2%;
+    background-color: #0F7DFE;
+    
+}
+.reviewimg{
+    width: 50%;
+    height: 600px;
+    
+}
+.carousel-inner{
+    height: 50%;
+}
+.courseimg{
+    width: 50%;
+    height: 50%;
+    margin: 1%;
+}
+.paybtn{
+    padding-top: 1.5%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: none;
+    border-radius: 5px;
+    background-color:#00FB0A;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 0 6px 6px 0 rgb(0, 95, 0);
+}
+.downloadimg{
+    height: 7%;
+    width: 7%;
+}
+.shop{
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+.more{
+    text-align: center;
+    margin-top: 4%;
+    font-size: larger;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+}
+.contacttable{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icons{
+    width: 50%;
+    padding-bottom: 5%;
+    margin-bottom: 3%;
+}
+.mail{
+    padding: 1%;
+}
+.footerbrand{
+    height: 10%;
+    width: 40%;
+    align-items: center;
+    margin: 2%;
+}
+.copyrights{
+    font-size: small;
+    padding-bottom: 2%;
+    margin-top: 0px;
+}
+.navopt:link{
+    color: black;
+}
+.navopt:visited{
+    color: black;
+    font-weight: bold;
+}
+.navopt:hover{
+    color: #0F7DFE;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+}
+.navopt:active{
+    color: #0F7DFE;
+    font-size: medium;
+    font-weight: bold;
+}
+.abth{
+    text-align: center;
+    font-weight: bold;
+    color:#3D3D3D ;
+}
+.abtstats{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.abtwho{
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 5%;
+    background-color:#0F7DFE;
+    color: white;
+}
+.abtwhat{
+    text-align: center;
+}
+.card{
+    width: 100%;
+    align-items: center;
+    padding: 2%;
+}
+.collabimg{
+    width: 100%;
+    align-items: center;
+    padding: 3%;
+}
+.aboutbtn{
+    box-shadow: 0 5px 5px 0 rgb(98, 98, 98);
+}
