@@ -78,7 +78,7 @@
 }
 .coursecontent{
     position: relative;
-    left: -5%;
+    left: -2%;
     text-align: left;
 }
 .reviews{
@@ -98,8 +98,8 @@
     height: 50%;
 }
 .courseimg{
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: 80%;
     margin: 1%;
 }
 .paybtn{
